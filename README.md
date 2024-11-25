@@ -26,6 +26,16 @@ This project enables you to integrate smooth, customizable lighting control for 
 
 ---
 
+## 📥 Installation
+
+1. **Download the Configuration**: Save the provided `daylight.cfg` file to your Klipper configuration folder.
+2. **Edit the File**: Open `daylight.cfg` and update the pin configuration under `[output_pin daylight_pwm]` to match the port you use to control your daylight stick.
+3. **Include in Printer Config**: Add the following line to your `printer.cfg` to include the daylight control configuration:
+   
+   [include daylight.cfg]
+
+---
+
 ## 📝 Example Use Cases
 
 - **Startup Lighting**: Ensure the printer area is well-lit when Klipper initializes.
