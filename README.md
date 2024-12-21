@@ -1,4 +1,4 @@
-# 🌟 Daylight Stick Brightness Control with Klipper
+# 🌟 Voron Daylight Stick Brightness Control with Klipper
 
 This project enables you to integrate smooth, customizable lighting control for your daylight stick directly into your Klipper setup. Perfect for ensuring optimal visibility and creating a professional printing environment.
 
